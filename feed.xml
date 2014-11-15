@@ -5,46 +5,9 @@
     <description></description>
     <link>http://ldued.github.io/</link>
     <atom:link href="http://ldued.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 15 Nov 2014 17:56:16 +0800</pubDate>
-    <lastBuildDate>Sat, 15 Nov 2014 17:56:16 +0800</lastBuildDate>
+    <pubDate>Sat, 15 Nov 2014 18:35:06 +0800</pubDate>
+    <lastBuildDate>Sat, 15 Nov 2014 18:35:06 +0800</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
-    
-      <item>
-        <title>SVN</title>
-        <description>&lt;h2 id=&quot;svn&quot;&gt;暗黑SVN&lt;/h2&gt;
-&lt;pre&gt;&lt;code&gt;svn://10.15.1.30/webupload/anhei.wanmei.com
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&quot;svn-1&quot;&gt;拳皇SVN&lt;/h2&gt;
-
-</description>
-        <pubDate>Sat, 15 Nov 2014 19:39:06 +0800</pubDate>
-        <link>http://ldued.github.io/ledao/2014/11/15/ledao-svn.html</link>
-        <guid isPermaLink="true">http://ldued.github.io/ledao/2014/11/15/ledao-svn.html</guid>
-        
-        
-        <category>ledao</category>
-        
-      </item>
-    
-      <item>
-        <title>UED常用信息</title>
-        <description>&lt;h2 id=&quot;section&quot;&gt;乐道公众账号&lt;/h2&gt;
-&lt;pre&gt;&lt;code&gt;ledaohudong@163.com
-ledao1124
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h1 id=&quot;section-1&quot;&gt;#&lt;/h1&gt;
-
-</description>
-        <pubDate>Sat, 15 Nov 2014 19:39:06 +0800</pubDate>
-        <link>http://ldued.github.io/ledao/2014/11/15/ledao-info.html</link>
-        <guid isPermaLink="true">http://ldued.github.io/ledao/2014/11/15/ledao-info.html</guid>
-        
-        
-        <category>ledao</category>
-        
-      </item>
     
       <item>
         <title>CMS帮助文档</title>
