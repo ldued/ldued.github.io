@@ -5,8 +5,8 @@
     <description></description>
     <link>http://ldued.github.io/</link>
     <atom:link href="http://ldued.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 17 Nov 2014 15:23:09 +0800</pubDate>
-    <lastBuildDate>Mon, 17 Nov 2014 15:23:09 +0800</lastBuildDate>
+    <pubDate>Mon, 17 Nov 2014 15:35:52 +0800</pubDate>
+    <lastBuildDate>Mon, 17 Nov 2014 15:35:52 +0800</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
     
       <item>
@@ -158,14 +158,18 @@
 &lt;h1 id=&quot;head&quot;&gt;全站官网 head&lt;/h1&gt;
 &lt;p&gt;调用样式uianhei.min.css&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;cp&quot;&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/span&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;c&quot;&gt;&amp;lt;!--头部--&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;cp&quot;&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/span&gt;
 &lt;span class=&quot;nt&quot;&gt;&amp;lt;html&amp;gt;&lt;/span&gt;
 &lt;span class=&quot;nt&quot;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;
 &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;charset=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;utf-8&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
 &lt;span class=&quot;nt&quot;&gt;&amp;lt;title&amp;gt;&lt;/span&gt;${cms.getTag(&quot;title&quot;)}&lt;span class=&quot;nt&quot;&gt;&amp;lt;/title&amp;gt;&lt;/span&gt;
 ${cms.getTag(&quot;keywords&quot;)}
 &lt;span class=&quot;nt&quot;&gt;&amp;lt;link&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/dist/css/uianhei.min.css&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;rel=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;stylesheet&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;c&quot;&gt;&amp;lt;!--Logo通调--&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;id=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;P_LOGO&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-logo=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&#39;{&quot;name&quot;:&quot;anhei&quot;,&quot;skin&quot;:&quot;2&quot;,&quot;top&quot;:&quot;24&quot;,&quot;left&quot;:&quot;465&quot;}&#39;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;h1 id=&quot;head-1&quot;&gt;全站列表页&amp;amp;内容页 head&lt;/h1&gt;
 &lt;p&gt;内容页需要做响应式适配，调用样式uianhei_m.min.css&lt;/p&gt;

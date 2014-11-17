@@ -78,14 +78,18 @@
 <h1 id="head">全站官网 head</h1>
 <p>调用样式uianhei.min.css</p>
 
-<div class="highlight"><pre><code class="language-html" data-lang="html"><span class="cp">&lt;!DOCTYPE html&gt;</span>
+<div class="highlight"><pre><code class="language-html" data-lang="html"><span class="c">&lt;!--头部--&gt;</span>
+<span class="cp">&lt;!DOCTYPE html&gt;</span>
 <span class="nt">&lt;html&gt;</span>
 <span class="nt">&lt;head&gt;</span>
 <span class="nt">&lt;meta</span> <span class="na">charset=</span><span class="s">"utf-8"</span><span class="nt">&gt;</span>
 <span class="nt">&lt;title&gt;</span>${cms.getTag("title")}<span class="nt">&lt;/title&gt;</span>
 ${cms.getTag("keywords")}
 <span class="nt">&lt;link</span> <span class="na">href=</span><span class="s">"/dist/css/uianhei.min.css"</span> <span class="na">rel=</span><span class="s">"stylesheet"</span><span class="nt">&gt;</span>
-<span class="nt">&lt;/head&gt;</span></code></pre></div>
+<span class="nt">&lt;/head&gt;</span>
+
+<span class="c">&lt;!--Logo通调--&gt;</span>
+<span class="nt">&lt;div</span> <span class="na">id=</span><span class="s">"P_LOGO"</span> <span class="na">data-logo=</span><span class="s">'{"name":"anhei","skin":"2","top":"24","left":"465"}'</span><span class="nt">&gt;&lt;/div&gt;</span></code></pre></div>
 
 <h1 id="head-1">全站列表页&amp;内容页 head</h1>
 <p>内容页需要做响应式适配，调用样式uianhei_m.min.css</p>
