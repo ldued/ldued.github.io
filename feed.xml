@@ -5,9 +5,29 @@
     <description></description>
     <link>http://ldued.github.io/</link>
     <atom:link href="http://ldued.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 17 Nov 2014 15:40:23 +0800</pubDate>
-    <lastBuildDate>Mon, 17 Nov 2014 15:40:23 +0800</lastBuildDate>
+    <pubDate>Tue, 18 Nov 2014 14:51:22 +0800</pubDate>
+    <lastBuildDate>Tue, 18 Nov 2014 14:51:22 +0800</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
+    
+      <item>
+        <title>常用软件安装</title>
+        <description>&lt;h1 id=&quot;section&quot;&gt;网站部服务器&lt;/h1&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;\\10.12.2.31\wangzhan&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h1 id=&quot;section-1&quot;&gt;字体&lt;/h1&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;\\10.12.2.31\wangzhan\&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+</description>
+        <pubDate>Mon, 17 Nov 2014 23:04:00 +0800</pubDate>
+        <link>http://ldued.github.io/software/2014/11/17/ued-doc.html</link>
+        <guid isPermaLink="true">http://ldued.github.io/software/2014/11/17/ued-doc.html</guid>
+        
+        
+        <category>software</category>
+        
+      </item>
     
       <item>
         <title>JS接口文档</title>
