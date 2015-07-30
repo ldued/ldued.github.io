@@ -5,8 +5,8 @@
     <description></description>
     <link>http://ldued.github.io/</link>
     <atom:link href="http://ldued.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 30 Jul 2015 15:09:33 +0800</pubDate>
-    <lastBuildDate>Thu, 30 Jul 2015 15:09:33 +0800</lastBuildDate>
+    <pubDate>Thu, 30 Jul 2015 15:16:18 +0800</pubDate>
+    <lastBuildDate>Thu, 30 Jul 2015 15:16:18 +0800</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
     
       <item>
@@ -89,7 +89,7 @@
 &lt;h1 id=&quot;section-4&quot;&gt;图片&lt;/h1&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://picture.ledo.com/&quot;&gt;http://picture.ledo.com/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;https://10.237.81.73/svn/website/picture&lt;/li&gt;
+  &lt;li&gt;svn://42.96.167.195/picture&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;section-5&quot;&gt;静态&lt;/h1&gt;
@@ -97,6 +97,10 @@
   &lt;li&gt;&lt;a href=&quot;http://static.ledo.com/&quot;&gt;http://static.ledo.com/&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;https://10.237.81.73/svn/website/static&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h1 id=&quot;host&quot;&gt;HOST配置&lt;/h1&gt;
+&lt;p&gt;103.24.229.32 www.ledo.com
+103.24.229.32 kof.ledo.com&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 29 Jul 2015 23:04:00 +0800</pubDate>
