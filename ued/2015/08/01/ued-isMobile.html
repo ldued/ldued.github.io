@@ -6,11 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width initial-scale=1">
 
-  <title>微信分享接口</title>
-  <meta name="description" content="微信分享接口&lt;script src="http://static.ledo.com/js/jquery.min.js"&gt;&lt;/script&gt;&lt;script src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"&gt;&lt;/scrip...">
+  <title>设备类型检测</title>
+  <meta name="description" content="设备类型检测&lt;script src="http://static.ledo.com/js/isMobile.js"&gt;&lt;/script&gt;&lt;script&gt;if(Device.os.phone) {    window.location.href= "http://kof.wanme...">
 
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://ldued.github.io/ued/2015/07/30/ued-isMobile.html">
+  <link rel="canonical" href="http://ldued.github.io/ued/2015/08/01/ued-isMobile.html">
   <link rel="alternate" type="application/atom+xml" title="乐道UED" href="http://ldued.github.io/feed.xml" />
 </head>
 
@@ -57,24 +57,18 @@
         <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">微信分享接口</h1>
-    <p class="post-meta">Jul 30, 2015</p>
+    <h1 class="post-title">设备类型检测</h1>
+    <p class="post-meta">Aug 1, 2015</p>
   </header>
 
   <article class="post-content">
-    <h1 id="section">微信分享接口</h1>
+    <h1 id="section">设备类型检测</h1>
 
-<div class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="o">&lt;</span><span class="nx">script</span> <span class="nx">src</span><span class="o">=</span><span class="s2">"http://static.ledo.com/js/jquery.min.js"</span><span class="o">&gt;&lt;</span><span class="sr">/script</span><span class="err">&gt;
-</span><span class="o">&lt;</span><span class="nx">script</span> <span class="nx">src</span><span class="o">=</span><span class="s2">"http://res.wx.qq.com/open/js/jweixin-1.0.0.js"</span><span class="o">&gt;&lt;</span><span class="sr">/script</span><span class="err">&gt;
-</span><span class="o">&lt;</span><span class="nx">script</span> <span class="nx">src</span><span class="o">=</span><span class="s2">"http://static.ledo.com/js/share.wx.js"</span><span class="o">&gt;&lt;</span><span class="sr">/script</span><span class="err">&gt;
+<div class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="o">&lt;</span><span class="nx">script</span> <span class="nx">src</span><span class="o">=</span><span class="s2">"http://static.ledo.com/js/isMobile.js"</span><span class="o">&gt;&lt;</span><span class="sr">/script</span><span class="err">&gt;
 </span><span class="o">&lt;</span><span class="nx">script</span><span class="o">&gt;</span>
-<span class="c1">// 微信分享</span>
-    <span class="kd">var</span> <span class="nx">shareToWeiXin</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">ShareToWx</span><span class="p">({</span>
-        <span class="na">shareUrl</span><span class="p">:</span> <span class="nx">location</span><span class="p">.</span><span class="nx">href</span><span class="p">.</span><span class="nx">split</span><span class="p">(</span><span class="s1">'#'</span><span class="p">)[</span><span class="mi">0</span><span class="p">],</span>
-        <span class="na">shareTitle</span><span class="p">:</span> <span class="s1">'《拳皇97OL》叶梓萱x血纯写真集触手版'</span><span class="p">,</span>
-        <span class="na">shareDesc</span><span class="p">:</span> <span class="s1">'宅男女神叶梓萱、血纯茗雅联袂出演，《拳皇97OL》写真集全面解禁！全程东瀛实景拍摄。樱花烂漫时节，美人入画，邀君共赏。'</span><span class="p">,</span>
-        <span class="na">shareImg</span><span class="p">:</span> <span class="s1">'http://event.ledo.com/kof/201507/mm/dist/images/shareimg.jpg?v=20150716'</span>
-    <span class="p">});</span>
+<span class="k">if</span><span class="p">(</span><span class="nx">Device</span><span class="p">.</span><span class="nx">os</span><span class="p">.</span><span class="nx">phone</span><span class="p">)</span> <span class="p">{</span>
+    <span class="nb">window</span><span class="p">.</span><span class="nx">location</span><span class="p">.</span><span class="nx">href</span><span class="o">=</span> <span class="s2">"http://kof.wanmei.com/m/index.html"</span><span class="p">;</span>
+<span class="p">}</span>
 <span class="o">&lt;</span><span class="sr">/script&gt;</span></code></pre></div>
 
 
