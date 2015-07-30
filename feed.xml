@@ -5,8 +5,8 @@
     <description></description>
     <link>http://ldued.github.io/</link>
     <atom:link href="http://ldued.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 30 Jul 2015 15:22:17 +0800</pubDate>
-    <lastBuildDate>Thu, 30 Jul 2015 15:22:17 +0800</lastBuildDate>
+    <pubDate>Thu, 30 Jul 2015 15:23:58 +0800</pubDate>
+    <lastBuildDate>Thu, 30 Jul 2015 15:23:58 +0800</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
     
       <item>
@@ -61,41 +61,41 @@
         <title>网站列表</title>
         <description>&lt;h1 id=&quot;section&quot;&gt;官方网站&lt;/h1&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.ledo.com/&quot;&gt;http://www.ledo.com/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://source.www.ledo.com/&quot;&gt;http://source.www.ledo.com/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;http://103.24.229.26:32081/svn/ledo/&lt;/li&gt;
+  &lt;li&gt;正式地址：&lt;a href=&quot;http://www.ledo.com/&quot;&gt;http://www.ledo.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;源站地址：&lt;a href=&quot;http://source.www.ledo.com/&quot;&gt;http://source.www.ledo.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;SVN地址：http://103.24.229.26:32081/svn/ledo/&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;section-1&quot;&gt;暗黑网站&lt;/h1&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://anhei.ledo.com/&quot;&gt;http://anhei.ledo.com/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://anheisource.autopatch.ledo.com/&quot;&gt;http://anheisource.autopatch.ledo.com/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;http://103.24.229.26:32081/svn/ahlm/&lt;/li&gt;
+  &lt;li&gt;正式地址：&lt;a href=&quot;http://anhei.ledo.com/&quot;&gt;http://anhei.ledo.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;源站地址：&lt;a href=&quot;http://anheisource.autopatch.ledo.com/&quot;&gt;http://anheisource.autopatch.ledo.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;SVN地址：http://103.24.229.26:32081/svn/ahlm/&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;section-2&quot;&gt;拳皇网站&lt;/h1&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://kof.ledo.com/&quot;&gt;http://kof.ledo.com/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://kofsource.autopatch.ledo.com/&quot;&gt;http://kofsource.autopatch.ledo.com/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;http://103.24.229.26:32081/svn/kof/&lt;/li&gt;
+  &lt;li&gt;正式地址：&lt;a href=&quot;http://kof.ledo.com/&quot;&gt;http://kof.ledo.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;源站地址：&lt;a href=&quot;http://kofsource.autopatch.ledo.com/&quot;&gt;http://kofsource.autopatch.ledo.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;SVN地址：http://103.24.229.26:32081/svn/kof/&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;section-3&quot;&gt;活动&lt;/h1&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://event.ledo.com/&quot;&gt;http://event.ledo.com/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;https://10.237.81.73/svn/website/event&lt;/li&gt;
+  &lt;li&gt;正式地址：&lt;a href=&quot;http://event.ledo.com/&quot;&gt;http://event.ledo.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;SVN地址：https://10.237.81.73/svn/website/event&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;section-4&quot;&gt;图片&lt;/h1&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://picture.ledo.com/&quot;&gt;http://picture.ledo.com/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;svn://42.96.167.195/picture&lt;/li&gt;
+  &lt;li&gt;正式地址：&lt;a href=&quot;http://picture.ledo.com/&quot;&gt;http://picture.ledo.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;SVN地址：svn://42.96.167.195/picture&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;section-5&quot;&gt;静态&lt;/h1&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://static.ledo.com/&quot;&gt;http://static.ledo.com/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;https://10.237.81.73/svn/website/static&lt;/li&gt;
+  &lt;li&gt;正式地址：&lt;a href=&quot;http://static.ledo.com/&quot;&gt;http://static.ledo.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;SVN地址：https://10.237.81.73/svn/website/static&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;host&quot;&gt;HOST配置&lt;/h1&gt;
