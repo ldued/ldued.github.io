@@ -159,28 +159,6 @@
 
 <div class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="nx">main</span><span class="p">.</span><span class="nx">tabs</span><span class="p">({</span><span class="na">tabsIDArr</span><span class="p">:</span> <span class="s2">"newsTab"</span><span class="p">});</span></code></pre></div>
 
-<h1 id="section-5">微信分享接口</h1>
-
-<div class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="nx">WeixinApi</span><span class="p">.</span><span class="nx">ready</span><span class="p">(</span><span class="kd">function</span><span class="p">(</span><span class="nx">Api</span><span class="p">)</span> <span class="p">{</span>
-    <span class="c1">// 微信分享的数据</span>
-    <span class="kd">var</span> <span class="nx">wxData</span> <span class="o">=</span> <span class="p">{</span>
-        <span class="s2">"appId"</span><span class="p">:</span> <span class="s2">""</span><span class="p">,</span> <span class="c1">// 服务号可以填写appId</span>
-        <span class="s2">"imgUrl"</span> <span class="p">:</span> <span class="s2">"http://anhei.wanmei.com/images/share.jpg"</span><span class="p">,</span><span class="c1">//微博 多张图片使用||分隔</span>
-        <span class="s2">"link"</span> <span class="p">:</span> <span class="s2">"http://anhei.wanmei.com/main_m.htm"</span><span class="p">,</span>
-        <span class="s2">"desc"</span> <span class="p">:</span> <span class="s2">"礼包领取、福利发放、攻略查询，就来《暗黑黎明》官方网站！"</span><span class="p">,</span>
-        <span class="s2">"title"</span> <span class="p">:</span> <span class="s2">"《暗黑黎明》官方网站-十亿手机的暗黑梦"</span>
-    <span class="p">};</span>
-
-    <span class="c1">// 用户点开右上角popup菜单后，点击分享给好友，会执行下面这个代码</span>
-    <span class="nx">Api</span><span class="p">.</span><span class="nx">shareToFriend</span><span class="p">(</span><span class="nx">wxData</span><span class="p">);</span>
-
-    <span class="c1">// 点击分享到朋友圈，会执行下面这个代码</span>
-    <span class="nx">Api</span><span class="p">.</span><span class="nx">shareToTimeline</span><span class="p">(</span><span class="nx">wxData</span><span class="p">);</span>
-
-    <span class="c1">// 点击分享到腾讯微博，会执行下面这个代码</span>
-    <span class="nx">Api</span><span class="p">.</span><span class="nx">shareToWeibo</span><span class="p">(</span><span class="nx">wxData</span><span class="p">);</span>
-<span class="p">})</span></code></pre></div>
-
 
   </article>
 
