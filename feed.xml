@@ -5,8 +5,8 @@
     <description></description>
     <link>http://ldued.github.io/</link>
     <atom:link href="http://ldued.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 30 Jul 2015 11:36:03 +0800</pubDate>
-    <lastBuildDate>Thu, 30 Jul 2015 11:36:03 +0800</lastBuildDate>
+    <pubDate>Thu, 30 Jul 2015 11:37:42 +0800</pubDate>
+    <lastBuildDate>Thu, 30 Jul 2015 11:37:42 +0800</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
     
       <item>
@@ -124,7 +124,6 @@
   &lt;li&gt;&lt;a href=&quot;#section-2&quot;&gt;轮播接口&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#section-3&quot;&gt;视频接口&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#section-4&quot;&gt;标签切换接口&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#section-5&quot;&gt;微信分享接口&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h1 id=&quot;section&quot;&gt;返回顶部接口&lt;/h1&gt;
